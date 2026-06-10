@@ -44,7 +44,4 @@ Weather App is a Python-based application that provides real-time weather inform
 * screenshots - Application screenshots
 * README.md - Project documentation
 
-## Author
-
-Swetha
 
